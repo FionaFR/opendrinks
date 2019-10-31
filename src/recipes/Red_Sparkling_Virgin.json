@@ -1,0 +1,50 @@
+{
+    "name": "Red Sparkling Virgin",
+    "description": "A sparkling red non alcoholic drink",
+    "github": "FionaFR",
+    "ingredients": [
+        {
+            "quantity": "1/2",
+            "measure": "Glass",
+            "ingredient": "Sprite"
+        },
+        {
+            "quantity": "1/2",
+            "measure": "Glass",
+            "ingredient": "Cranberry Juice"
+        },
+        {
+            "quantity": "1",
+            "measure": "slice",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "3",
+            "measure": "cube",
+            "ingredient": "Ice"
+        } ,
+       {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "White Sugar"
+        },
+       {
+            "quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "Lemon Juice"
+        }
+    ],
+    "directions": [
+        "Take a glass and dip the glass's mouth rhim into the Lemon Juice.",
+        "Take a glass and dip the glass's mouth rhim into the White Sugar.",
+        "Add ice to the glass.",
+        "Half fill the glass with Cranberry Juice.",
+        "Fill the glass with Sprite.",
+        "Add the Lemon slice to the drink and enjoy!"
+    ],
+    "keywords": [
+        "Red",
+        "Sparkling",
+        "Virgin"
+    ]
+} 
